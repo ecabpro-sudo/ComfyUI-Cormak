@@ -13,8 +13,7 @@ Homepage = "https://cormak.app"
 Repository = "https://github.com/ecabpro-sudo/ComfyUI-Cormak"
 
 [tool.comfy]
-# Set this to the owner's verified publisher ID before publishing.
-PublisherId = ""
+PublisherId = "cormak"
 DisplayName = "Cormak Nodes"
 requires-comfyui = ">=0.45.0,<0.46.0"
 Icon = "https://cormak.app/logo-mark.svg"
